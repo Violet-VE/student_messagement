@@ -1,3 +1,7 @@
+#########################################
+# 作者：小纯洁				#
+# 时间：2019.6.8			#
+#########################################
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.urls import reverse
